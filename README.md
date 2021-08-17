@@ -1,4 +1,4 @@
-### I study SECURITY
+### 🌱 I study SECURITY
 
 [![ch1hyun's github stats](https://github-readme-stats.vercel.app/api?username=ch1hyun&show_icons=true&theme=tokyonight
 )](https://github.com/anuraghazra/github-readme-stats)
